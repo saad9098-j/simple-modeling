@@ -35,7 +35,8 @@ For each data type, the modeling process follows a strict 4-step pipeline:
 * Python 3.x
 * NumPy
 * Pandas
-* Matplotlib or Plotly (for visualization)
+* Matplotlib or Plotly
+* Seaborn (for statistical data visualization)
 
 ### Running a Model
 Execute any of the model scripts directly to process the data, run the optimization loop, and view the visualization plots:
